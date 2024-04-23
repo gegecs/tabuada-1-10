@@ -7,4 +7,5 @@ function tabuada(numeroTab){
     }
 }
 
+//x = any number you want
 tabuada(x);
